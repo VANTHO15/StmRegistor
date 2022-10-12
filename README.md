@@ -72,3 +72,6 @@
 
 # Stm32 chỉ sử dụng 4 bít bên trái vì chỉ có 16 độ ưu tiên ngắt, 4 bít bên phải không dùng
 ![image](https://user-images.githubusercontent.com/56969447/195357554-185ddf9f-f748-4be5-b39f-3d737e350b06.png)
+
+![image](https://user-images.githubusercontent.com/56969447/195394550-a1d0bfea-2478-4247-a60e-76e7924dfa41.png)
+
