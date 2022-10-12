@@ -60,3 +60,10 @@
 
 ![image](https://user-images.githubusercontent.com/56969447/194912529-f46df02a-952e-4eb9-9de5-f9d3f8217a3a.png)
 
+# Viết asembly trong C
+![image](https://user-images.githubusercontent.com/56969447/195331903-20d01140-c0be-4f35-ba9f-489df7a2f3c5.png)
+
+![image](https://user-images.githubusercontent.com/56969447/195331961-4581a450-aa27-4598-a25a-2ffbbc2979fa.png)
+
+
+
