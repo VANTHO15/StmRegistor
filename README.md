@@ -65,5 +65,7 @@
 
 ![image](https://user-images.githubusercontent.com/56969447/195331961-4581a450-aa27-4598-a25a-2ffbbc2979fa.png)
 
+# Đầu vào , đầu ra
+![image](https://user-images.githubusercontent.com/56969447/195333137-d0a3561d-a9ae-428c-aaa1-9194df62125b.png)
 
 
